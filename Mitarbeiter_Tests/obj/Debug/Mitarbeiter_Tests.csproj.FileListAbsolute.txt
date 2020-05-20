@@ -1,0 +1,17 @@
+C:\Users\Justi\source\repos\ConsoleApp_Mitarbeit_Personal_Testen\Mitarbeiter_Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Justi\source\repos\ConsoleApp_Mitarbeit_Personal_Testen\Mitarbeiter_Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Justi\source\repos\ConsoleApp_Mitarbeit_Personal_Testen\Mitarbeiter_Tests\bin\Debug\nunit.engine.dll
+C:\Users\Justi\source\repos\ConsoleApp_Mitarbeit_Personal_Testen\Mitarbeiter_Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\Justi\source\repos\ConsoleApp_Mitarbeit_Personal_Testen\Mitarbeiter_Tests\bin\Debug\Mitarbeiter_Tests.dll
+C:\Users\Justi\source\repos\ConsoleApp_Mitarbeit_Personal_Testen\Mitarbeiter_Tests\bin\Debug\Mitarbeiter_Tests.pdb
+C:\Users\Justi\source\repos\ConsoleApp_Mitarbeit_Personal_Testen\Mitarbeiter_Tests\bin\Debug\ConsoleApp_Mitarbeit_Personal_Testen.exe
+C:\Users\Justi\source\repos\ConsoleApp_Mitarbeit_Personal_Testen\Mitarbeiter_Tests\bin\Debug\nunit.framework.dll
+C:\Users\Justi\source\repos\ConsoleApp_Mitarbeit_Personal_Testen\Mitarbeiter_Tests\bin\Debug\ConsoleApp_Mitarbeit_Personal_Testen.pdb
+C:\Users\Justi\source\repos\ConsoleApp_Mitarbeit_Personal_Testen\Mitarbeiter_Tests\bin\Debug\ConsoleApp_Mitarbeit_Personal_Testen.exe.config
+C:\Users\Justi\source\repos\ConsoleApp_Mitarbeit_Personal_Testen\Mitarbeiter_Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Justi\source\repos\ConsoleApp_Mitarbeit_Personal_Testen\Mitarbeiter_Tests\bin\Debug\nunit.framework.xml
+C:\Users\Justi\source\repos\ConsoleApp_Mitarbeit_Personal_Testen\Mitarbeiter_Tests\obj\Debug\Mitarbeiter_Tests.csprojAssemblyReference.cache
+C:\Users\Justi\source\repos\ConsoleApp_Mitarbeit_Personal_Testen\Mitarbeiter_Tests\obj\Debug\Mitarbeiter_Tests.csproj.CoreCompileInputs.cache
+C:\Users\Justi\source\repos\ConsoleApp_Mitarbeit_Personal_Testen\Mitarbeiter_Tests\obj\Debug\Mitarbeiter_Tests.csproj.CopyComplete
+C:\Users\Justi\source\repos\ConsoleApp_Mitarbeit_Personal_Testen\Mitarbeiter_Tests\obj\Debug\Mitarbeiter_Tests.dll
+C:\Users\Justi\source\repos\ConsoleApp_Mitarbeit_Personal_Testen\Mitarbeiter_Tests\obj\Debug\Mitarbeiter_Tests.pdb

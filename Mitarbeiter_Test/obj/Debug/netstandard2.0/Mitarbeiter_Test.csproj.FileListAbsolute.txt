@@ -1,0 +1,6 @@
+C:\Users\Justi\source\repos\ConsoleApp_Mitarbeit_Personal_Testen\Mitarbeiter_Test\bin\Debug\netstandard2.0\Mitarbeiter_Test.deps.json
+C:\Users\Justi\source\repos\ConsoleApp_Mitarbeit_Personal_Testen\Mitarbeiter_Test\bin\Debug\netstandard2.0\Mitarbeiter_Test.dll
+C:\Users\Justi\source\repos\ConsoleApp_Mitarbeit_Personal_Testen\Mitarbeiter_Test\obj\Debug\netstandard2.0\Mitarbeiter_Test.csprojAssemblyReference.cache
+C:\Users\Justi\source\repos\ConsoleApp_Mitarbeit_Personal_Testen\Mitarbeiter_Test\obj\Debug\netstandard2.0\Mitarbeiter_Test.csproj.CoreCompileInputs.cache
+C:\Users\Justi\source\repos\ConsoleApp_Mitarbeit_Personal_Testen\Mitarbeiter_Test\obj\Debug\netstandard2.0\Mitarbeiter_Test.AssemblyInfoInputs.cache
+C:\Users\Justi\source\repos\ConsoleApp_Mitarbeit_Personal_Testen\Mitarbeiter_Test\obj\Debug\netstandard2.0\Mitarbeiter_Test.AssemblyInfo.cs
