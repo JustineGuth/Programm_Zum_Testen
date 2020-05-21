@@ -18,7 +18,7 @@ namespace ConsoleApp_Mitarbeit_Personal_Testen
             {
                 if (userName == "admin" && passwort == "admin")
                 {
-                    return "Willkommen";
+                    return "Willkommen Admin";
                 }
                 return "Name oder Passwort kann nicht gefunden werden";
             }
